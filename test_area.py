@@ -1,3 +1,4 @@
+import pytest  
 from area import calculate_area_square  
   
 def test_calculate_area_square():  
